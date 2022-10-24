@@ -2,7 +2,7 @@
 - 👀 I am interested in learning how to code to dig myself way out of debt
 - 🌱 I’m currently getting liquidated on many defi projects on multiple blockchains.
 - 💞️ I’m looking to collaborate on where I can leverage my strengths!
-- 📫 How to reach me cryptoakita123@gmail.com
+- 📫 How to reach me akitav2@proton.me
 
 <!---
 cryptoakita/cryptoakita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
