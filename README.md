@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cryptoakita. I began my crypto journey in the early 2021
-- 👀 I am interested in learning how to code to dig myself way out of debt
-- 🌱 I’m currently getting liquidated on many defi projects on multiple blockchains.
-- 💞️ I’m looking to collaborate on where I can leverage my strengths!
+- 👋 Hi, I’m @cryptoakita
+- 👀 I literally have no idea what i'm doing
+- 🌱 I’m currently getting liquidiated
+- 💞️ I’m looking to leverage my degeneracy
 - 📫 How to reach me akitav2@proton.me
 
 <!---
